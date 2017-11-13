@@ -1,0 +1,43 @@
+-x
+objective-c
+-arch
+arm64
+-std=c99
+-fobjc-arc
+-fmodules
+-gmodules
+-fmodules-cache-path=/Users/deepika/Library/Developer/Xcode/DerivedData/ModuleCache
+-fbuild-session-file=/Users/deepika/Library/Developer/Xcode/DerivedData/ModuleCache/Session.modulevalidation
+-fpascal-strings
+-O0
+-D_DEBUG
+-D_USE_MSI_COM
+-D_UNICODE
+-D_LITTLE_ENDIAN
+-D_WEB
+-D_MAC
+-DDEBUG=1
+-DOBJC_OLD_DISPATCH_PROTOTYPES=0
+-isysroot
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS10.1.sdk
+-miphoneos-version-min=9.0
+-g
+-iquote
+-iquote
+-iquote/Users/deepika/Documents/Optimus Workspace/10.8/i2iDevelopment - Wesley/../../Common/ReportServiceCore/Headers
+-iquote/Users/deepika/Documents/Optimus Workspace/10.8/i2iDevelopment - Wesley/../../Common/ReportServiceCore/Classes
+-iquote/Users/deepika/Documents/Optimus Workspace/10.8/i2iDevelopment - Wesley/../../Common
+-iquote/Users/deepika/Documents/Optimus Workspace/10.8/i2iDevelopment - Wesley/../ChartEngine/Classes
+-iquote/Users/deepika/Documents/Optimus Workspace/10.8/i2iDevelopment - Wesley/../Library/GoogleAnalyticsServicesiOS/Header
+-I/Users/deepika/Documents/Optimus Workspace/10.8/i2iDevelopment - Wesley/build/Debug-iphoneos/include
+-I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include
+-I/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS10.1.sdk/usr/include/libxml2
+-I/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS10.1.sdk/usr/include/libxml2/libxml
+-I../Library/openssl/include
+-I../Library/openssl/include/openssl
+-F/Users/deepika/Documents/Optimus Workspace/10.8/i2iDevelopment - Wesley/build/Debug-iphoneos
+-F/Users/deepika/Documents/Optimus Workspace/10.8/i2iDevelopment - Wesley/../Library
+aarch64-apple-darwin15.6.0
+"4.2.1 Compatible Apple LLVM 8.0.0 (clang-800.0.42.1)"
+SDK_PRODUCT_BUILD_VERSION=14B72
+14B72

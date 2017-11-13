@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>OverrideExistingPreferences</key>
+	<false/>
+	<key>SoftwareEncryptionEnabled</key>
+	<true/>
+	<key>SecurityFramework</key>
+	<string>Default</string>
+	<key>UpdateExistingPreferences</key>
+	<false/>
+	<key>UsesBundledPreference</key>
+	<true/>
+	<key>SwipeToChangeLayouts</key>
+	<false/>
+	<key>ApplicationHeaderValue-iPhone</key>
+	<string>MSTRMobile/iPhone</string>
+	<key>ApplicationHeaderValue-iPad</key>
+	<string>MSTRMobile/iPad</string>
+	<key>ApplicationHeaderKey</key>
+	<string>Application-Identifier</string>
+</dict>
+</plist>
